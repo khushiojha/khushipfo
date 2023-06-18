@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/khushipfo/static/css/main.e0590093.css",
+    "main.js": "/khushipfo/static/js/main.c5993ff3.js",
+    "static/media/movienexus.png": "/khushipfo/static/media/movienexus.38fe89dab5076bf73812.png",
+    "static/media/lensfly.png": "/khushipfo/static/media/lensfly.9c03e8dbd9c9b84a152f.png",
+    "static/media/web-removebg-preview.png": "/khushipfo/static/media/web-removebg-preview.9fed7f1d0b7ca01038fd.png",
+    "static/media/Web-designer-1024x821.webp": "/khushipfo/static/media/Web-designer-1024x821.6e57f7f5669037a83b03.webp",
+    "static/media/sportsceleb.webp": "/khushipfo/static/media/sportsceleb.de4a92c2b452b91b16b1.webp",
+    "static/media/lumpycows.jpg": "/khushipfo/static/media/lumpycows.a814890a4c831bb03019.jpg",
+    "static/media/bars.svg": "/khushipfo/static/media/bars.a2e35dd5aede7934d82e.svg",
+    "index.html": "/khushipfo/index.html",
+    "main.e0590093.css.map": "/khushipfo/static/css/main.e0590093.css.map",
+    "main.c5993ff3.js.map": "/khushipfo/static/js/main.c5993ff3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0590093.css",
+    "static/js/main.c5993ff3.js"
+  ]
+}
